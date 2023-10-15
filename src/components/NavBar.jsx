@@ -31,7 +31,7 @@ const NavBar = () => {
             placeholder="Search"
             className="border border-gray-300 rounded-full px-4 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-coral-red"
           />
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-4 text-xl">
             <FontAwesomeIcon icon={faCartArrowDown} />
             <FontAwesomeIcon icon={faHeart} />
           </div>
