@@ -1,4 +1,5 @@
 # React + Vite
+Use npm run dev to deploy the website. This basic design showcases the use of TailwindCSS for Front-End development. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
